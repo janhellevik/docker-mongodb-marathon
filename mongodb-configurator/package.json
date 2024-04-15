@@ -15,7 +15,7 @@
     "node-zookeeper-client": "^0.2.2",
     "promised-mongo": "^1.2.0",
     "q": "^1.4.1",
-    "request-promise": "^1.0.1",
+    "request-promise": "^4.2.6",
     "winston": "^1.1.1"
   }
 }
